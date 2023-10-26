@@ -7,7 +7,7 @@ import { SubHeading } from '../../components';
 const Header = () => (
     <div className='app__header app__wrapper section__padding' id='home'>
         <div className="app__wrapper_info">
-            <SubHeading title="Chase the new flavour" />
+            <SubHeading title="Chase the new Look" />
             <h1 className="app__header-h1">
                 The Key to Beautiful hair
             </h1>

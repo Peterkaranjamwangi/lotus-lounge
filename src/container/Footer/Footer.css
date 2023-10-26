@@ -1,0 +1,10 @@
+.app__footer-section {
+    width: 100%;
+    height: auto;
+    background-color: var(--color-black);
+    padding: 50px;
+}
+
+.app__footer-section_links {
+
+}
