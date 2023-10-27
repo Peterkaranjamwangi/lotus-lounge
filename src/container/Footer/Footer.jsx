@@ -21,7 +21,6 @@ const Footer = () => (
             <div className="app__footer-links_logo">
                 <img src={images.gericht} alt="footer_logo" />
                 <p className="p__opensans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi eligendi minus magnam maxime eaque voluptate.</p>
-                {/* <img src={images.spoon} alt="tool" className="tool_img" style={{marginTop: 15,}} /> */}
                 <div className="app__footer-links_icons">
                     <FiFacebook/>
                     <FiTwitter />
