@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <nav className="app__navbar">
             <div className="app__navbar-logo">
-                <img src={images.gericht} alt="App logo" srcset="" />
+                <img src={images.logo} alt="App logo" srcset="" />
             </div>
             <ul className="app__navbar-links">
                 <li className="p__opensans"><a href="#home"> Home</a></li>

@@ -20,7 +20,7 @@ const FindUs = () => (
     </div>
 
     <div className="app__wrapper_img">
-        <img src={images.findus} alt="Find Us Img" />
+        <img src={images.findus} style={{opacity: '0.5'}} alt="Find Us Img" />
     </div>
 
     {/* <h1 className="headtext__cormorant">Over the staf's section update to flip after 20 seconds</h1> */}

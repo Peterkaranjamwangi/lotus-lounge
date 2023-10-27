@@ -19,7 +19,7 @@ const Footer = () => (
                 <p className="p__opensans">0745572565</p>
             </div>
             <div className="app__footer-links_logo">
-                <img src={images.gericht} alt="footer_logo" />
+                <img src={images.logo} alt="footer_logo" />
                 <p className="p__opensans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi eligendi minus magnam maxime eaque voluptate.</p>
                 <div className="app__footer-links_icons">
                     <FiFacebook/>
